@@ -6,7 +6,7 @@
     <MicrosoftWin32RegistryPackageVersion>4.7.0</MicrosoftWin32RegistryPackageVersion>
     <NerdBankGitVersioningPackageVersion>[3.5.73-alpha]</NerdBankGitVersioningPackageVersion>
     <NewtonsoftJsonPackageVersion>12.0.3</NewtonsoftJsonPackageVersion>
-    <SharpZipLibPackageVersion>1.2.0</SharpZipLibPackageVersion>
+    <SharpZipLibPackageVersion>1.3.3</SharpZipLibPackageVersion>
     <SystemConfigurationConfigurationManagerPackageVersion>4.7.0</SystemConfigurationConfigurationManagerPackageVersion>
     <SystemDataOdbcPackageVersion>4.7.0</SystemDataOdbcPackageVersion>
     <SystemDrawingCommonPackageVersion>4.7.0</SystemDrawingCommonPackageVersion>
